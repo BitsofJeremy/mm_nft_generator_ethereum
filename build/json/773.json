@@ -1,0 +1,60 @@
+{
+  "name": "METAMARBLES GEN0.e #773",
+  "description": "A unique set of 888 marbles in the form of playing cards algorithmically generated for the Ethereum blockchain.",
+  "image": "https://ipfs.io/ipfs/bafybeidcqeysjgwzkkhno4tptb6cvqopotizv5tyf2cyd5mxljusa7lrsi",
+  "attributes": [
+    {
+      "trait_type": "Light Card",
+      "value": "true"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Deep Jungle Green"
+    },
+    {
+      "trait_type": "Marble Base Color",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Ribbon Base Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ribbon Inner Color",
+      "value": "Blaze Orange"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Ethereum Black"
+    },
+    {
+      "trait_type": "Stats Bar",
+      "value": "true"
+    },
+    {
+      "trait_type": "Marble Type",
+      "value": "Sun Black"
+    },
+    {
+      "trait_type": "Type Bubble",
+      "value": "true"
+    },
+    {
+      "trait_type": "Health",
+      "value": "80"
+    },
+    {
+      "trait_type": "Mass",
+      "value": "20"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "true"
+    }
+  ],
+  "dna": "2de313a96632f3a2dae0bf8b0500e53c7a50e128",
+  "edition": 773,
+  "external_url": "https://metamarbles.xyz",
+  "date": 1655354467975,
+  "compiler": ""
+}

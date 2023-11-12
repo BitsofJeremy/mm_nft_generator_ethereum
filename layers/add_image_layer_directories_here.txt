@@ -1,0 +1,3 @@
+
+Create your png images with transparency and add them in directories as layers.
+
